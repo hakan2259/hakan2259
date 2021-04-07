@@ -1,5 +1,5 @@
 ## Welcome to my github profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
+ ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="500">
 </p>
