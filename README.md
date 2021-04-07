@@ -4,7 +4,7 @@
 
 ### Hi there, I'm [Hakan SANDAL](https://github.com/hakan2259) 👋
 
-🏠 I’m currently living at Tekirdağ, Kapaklı 🇹🇷. <br/>
+🏠 I’m currently living at Tekirdağ, Kapaklı 🇹🇷🇹🇷🇹🇷. <br/>
 👨‍💻 I’m currently working as a Full-stack Developer.<br/>
 🔭 I’m currently working on news website projects.<br/>
 🌱 I’m currently learning English 🤦‍♂.<br/>
