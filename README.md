@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="200">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="500">
 </p>
 
 <!--
