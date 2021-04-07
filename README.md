@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
 <!--
 **hakan2259/hakan2259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
